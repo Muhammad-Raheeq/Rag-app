@@ -1,7 +1,8 @@
 import os
 import tempfile
 import streamlit as st
-
+import numpy as np
+np.float_ = np.float64
 from langchain_community.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma

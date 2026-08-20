@@ -5,8 +5,8 @@ langchain-google-genai
 langchain-huggingface
 langchain-classic
 langchain-core
-chromadb
+chromadb==0.4.24
 pypdf
 docx2txt
 sentence-transformers
-numpy<2
+numpy==1.26.4
