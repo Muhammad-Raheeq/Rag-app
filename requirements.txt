@@ -1,17 +1,10 @@
 streamlit
+langchain
 langchain-community
 langchain-text-splitters
 langchain-google-genai
 langchain-huggingface
-langchain-classic
-langchain-core
-chromadb
+chromadb==0.4.24
 pypdf
 docx2txt
 sentence-transformers
-
-
-
-
-git config --global user.email "muhammadraheeq121@gmail.com"
-git config --global user.name "Muhammad-Raheeq"
