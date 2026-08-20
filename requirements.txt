@@ -8,5 +8,7 @@ langchain-core
 chromadb==0.4.24
 pypdf
 docx2txt
+torch
+torchvision
 sentence-transformers
 numpy==1.26.4
